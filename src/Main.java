@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import domain.Conteudo;
 import domain.Curso;
 import domain.Mentoria;
@@ -11,12 +10,6 @@ public class Main {
         curso1.setCargaHoraria(8);
 
 
-
         System.out.println(curso1);
-=======
-public class Main {
-    public static void main(String[] args) {
-
->>>>>>> origin/main
     }
 }
