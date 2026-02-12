@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import domain.Conteudo;
 import domain.Curso;
 import domain.Mentoria;
@@ -12,5 +13,10 @@ public class Main {
 
 
         System.out.println(curso1);
+=======
+public class Main {
+    public static void main(String[] args) {
+
+>>>>>>> origin/main
     }
 }
